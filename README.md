@@ -1,5 +1,3 @@
-# lain
-ig u could say...we got this working just in time...
 # Road Runner QuickStart
 An example FTC project using Road Runner (link).
 # Installation
